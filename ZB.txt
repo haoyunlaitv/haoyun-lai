@@ -505,7 +505,7 @@ Travel,http://hdtv.ub1818.com/ublive/index_36.m3u8
 Outdoor,http://hdtv.ub1818.com/ublive/index_37.m3u8
 台视财经,http://hdtv.ub1818.com/ublive/index_38.m3u8
 Trace Sport,http://hdtv.ub1818.com/ublive/index_39.m3u8
-$c_start梦幻$c_1234_end
+$c_start梦幻$c_end_1234
 驚豔台,http://f2.twtvcdn.com:8080/live/409/f9e8c99f9b354d9f90ebaee0c118d95f/index.m3u8
 彩虹電影台,http://f2.twtvcdn.com:8080/live/413/8eb3d52ac6bbac244f23234e87c0bd7d/index.m3u8
 K頻道,http://f2.twtvcdn.com:8080/live/406/42b9941a1157089245f7fa8f32538eea/index.m3u8
