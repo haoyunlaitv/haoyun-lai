@@ -1,12 +1,7 @@
 $c_start中国央视$c_end
-央视新闻,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
-央视新闻,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-央视新闻,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204602.m3u8
-央视新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+央视新闻,http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8#http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204603.m3u8#http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000204602.m3u8#http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV4K超清,http://111.161.121.212/livews-4k.5club.CCTV.cn/live/4K.stream/playlist.m3u8
-CCTV4K超清,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8 
-CCTV4K超清,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266302.m3u8
-CCTV4K超清,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266301.m3u8
+CCTV4K超清,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8#http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266302.m3u8#http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000266301.m3u8 
 CCTV1 综合,http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV2 财经,http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV3 综艺,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -33,8 +28,7 @@ CGTN国际频道,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2001656803.m
 CGTN国际频道,http://112.17.40.140/PLTV/88888888/224/3221226235/index.m3u8
 CGTN国际频道,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
-CETV-1,http://61.189.255.139/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8
-CETV-1,http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CETV-1,http://61.189.255.139/live.aishang.ctlcdn.com/00000110240302_1/encoder/0/playlist.m3u8#http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CETV-1,http://172.81.212.243/live/program/live/zgjy1ott/4000000/mnf.m3u8
 CETV-1,http://112.17.40.140/PLTV/88888888/224/3221226132/index.m3u8
 CETV-1,http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
