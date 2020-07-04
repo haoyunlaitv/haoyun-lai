@@ -3141,7 +3141,7 @@ BS-FUJI,http://f4.apps8888.com:8080/live/244/05ebbf376a07f030a39d326100ea2571/in
 GaoRa,http://f4.apps8888.com:8080/live/296/455a50cd2ffb0b17aa7d7197294b1d32/index.m3u8
 NTV,http://f4.apps8888.com:8080/live/119/b5f82d24bb2967d566efcbf10b71fa43/index.m3u8
 NTV News24,http://f4.apps8888.com:8080/live/42/efb5848ab25dcb4806a4261f2100f0c5/index.m3u8
-$c_start梦幻AD$c_end 密码:1234
+$c_start梦幻AD$c_end密码:1234
 驚豔台,http://f2.twtvcdn.com:8080/live/409/f9e8c99f9b354d9f90ebaee0c118d95f/index.m3u8
 彩虹電影台,http://f2.twtvcdn.com:8080/live/413/8eb3d52ac6bbac244f23234e87c0bd7d/index.m3u8
 K頻道,http://f2.twtvcdn.com:8080/live/406/42b9941a1157089245f7fa8f32538eea/index.m3u8
